@@ -4,7 +4,8 @@
   "description": "mazey game",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "homepage": "https://github.com/Noirad88/Mazey#readme",
   "dependencies": {
     "express": "4.19.2",
+    "node": "16.13.0",
     "path": "0.12.7"
   }
 }
