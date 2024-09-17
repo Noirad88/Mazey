@@ -5,3 +5,18 @@ Maze generator based off the depth-first search algorithm. Used in [Worms](https
 
 Playable on [Itch](https://darionmccoy.itch.io/worms-maze-generator)
 
+## Local setup
+
+install dependencies:
+
+```bash
+npm install
+```
+
+run the dev server:
+
+```bash
+npm run start
+```
+
+Go to [http://localhost:3000](http://localhost:3000) to view the page.
