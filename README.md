@@ -7,13 +7,13 @@ Playable on [Itch](https://darionmccoy.itch.io/worms-maze-generator)
 
 ## Local setup
 
-install dependencies:
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-run the dev server:
+Run the dev server:
 
 ```bash
 npm run start
